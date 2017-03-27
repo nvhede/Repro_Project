@@ -2,7 +2,7 @@ import csv
 import sys
 
 #all caps usually designates a global variable
-MY_FILE = "C:/Users/nvhed/Desktop/Coding/MySourceFiles/incident.csv.txt"
+MY_FILE = "/incident.csv.txt"
 
 def parse (raw_file, delimiter = ','):
     """Parses a raw CSV/Excel File to a JSON-line object."""
