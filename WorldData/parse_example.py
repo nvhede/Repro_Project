@@ -5,7 +5,7 @@ from json import dumps
 import geocoder
 
 
-MYFILE = "C:/Users/nvhed/Desktop/Coding/MySourceFiles/repro.csv"
+MYFILE = "/repro.csv"
 
 #Stage 1: Parse your data
 class Parse (object):
